@@ -1,0 +1,3 @@
+# Git attributes
+*.py linguist-language=Python
+*.md linguist-documentation
